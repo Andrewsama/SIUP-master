@@ -1,4 +1,5 @@
  # Social Influence-weighted User Preference: A New Perspective for Social Recommendation
+
 <font color=red>The implementation code will be released after the acceptance of the paper.</font>
 
 This is the PyTorch implementation for **SIUP** proposed in the paper **Social Influence-weighted User Preference: A New Perspective for Social Recommendation**.
